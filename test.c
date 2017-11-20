@@ -7,6 +7,14 @@
 
 #include<stdio.h>
 #include <stdlib.h>
+void fun3(void)
+{
+	printf("test3");
+}
+void fun2(void)
+{
+	printf("shijie");
+}
 void fun1(void)
 {
 	printf("nihao");
