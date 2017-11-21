@@ -1,4 +1,4 @@
-cscope 15 $HOME/gitlearn -q 0000001246 0000089358
+cscope 15 $HOME/clone/test -q 0000001248 0000089461
 	@test.c
 
 8 
@@ -10,30 +10,54 @@ cscope 15 $HOME/gitlearn -q 0000001246 0000089358
 >
 
 10 
-	$fun1
+	$fun3
 ()
 
 12 
 	`´štf
-("nihao");
+("test3");
 
 13 
 	}
 }
 
-14 
-	$maš
-()
+14 
+	$fun2
+()
 
 16 
 	`´štf
-("helloworld");
+("shijie");
 
 17 
+	}
+}
+
+18 
+	$fun1
+()
+
+20 
+	`´štf
+("nihao");
+
+21 
+	}
+}
+
+22 
+	$maš
+()
+
+24 
+	`´štf
+("helloworld");
+
+25 
 	`fun1
 ();
 
-19 
+27 
 	}
 }
 
